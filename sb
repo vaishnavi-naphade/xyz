@@ -1,0 +1,20 @@
+creat 
+acl enable unmark block all public access-versing enable-
+ create- add file-upload----
+bucket name click ---properties---static webhosting 
+---enable---- host static---ndex.html---savechange---browse
+
+
+L
+create fun--- auther from scrath---name---runtime info---change default ex role
+---  create a new rle create fun --ready code
+
+s
+sudo chmod 666 /var/run/docker.sock
+   23  sudo docker swarm init
+   24  sudo docker node ls
+  
+    sudo docker build -t vaishnavinaphade/test .
+  docker images
+   sudo docker push vaishnavinaphade/test
+sudo docker service create --name test -p 80:80 --replicas 3 vaishnavinaphade/test
