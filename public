@@ -1,0 +1,13 @@
+go to vpc---click vpc create---seletct vpc only for create private subnet
+
+give name ---provide networka address---create vpc
+
+
+2   goo to subnet --crweate subnetr in vpc section ---select your created vpc--- provide nam,e for subnet---select avilabilyty zone---
+type a ip network(that ip network is in vpc network)---create subnet
+
+
+3
+attach vpc  to ec2 launch inst ---ec2 setting go network setting --clck edit --vpc
+select--- automatic subnet choss
+--and remaining settings as it is for ec2
